@@ -1,0 +1,178 @@
+1.Self Introduction
+-->Good Morning Sir / Madam, Thanks you for providing me opportunity for having this interview with you, Hope you are doing well. It’s My Pleasure to start my Self Introductions with you. i am Venugopal A Hardworking Personality and I belong to the city vinukonda.my father name is prabhu and mother name is koteswaramma and their profession is farming .i have one sister name is asha and present she was doing software job in HCL company. I did my schooling from zphs and scored 92% in higher secondary and scored 94% in senior secondary. I have completed my B. Tech from LakiReddyBaliReddy College of Engineering and scored 75% marks. I got trained in core java, advanced java, python, datascience, html , sql. I always have curiosity on coding and achieved python Golden Badge from HackerRank and Currently I am working as intern in purpletalk pvt ltd company on springboot technology in which I am going through different modules in it and acquired deep knowledge, I love to work in Web development field and also have curious to learn current trending technologies ml, data science. As a part of my circulam i have done  3 projects, one them is mini music player its works like as music app by using single linked list in c ,and second one is on student result portal by using django,and last one is enhancing phishing url fraud detection by using bert encoder.My hobbies are listening music, and reading books, and creating various types of application tools.I have good leadership qualities and adaptive to new technologies. My Objective is to join this organization where I can prove myself by doing my level best so that it can polish my skills as well as I can give minor support with full efforts to grow this organization.
+2.Projects
+--->Mini Music Player 	
+	*Domain--Data Structures using c
+---->Student Result Portal
+	*Domain--Django
+	*FrontEnd
+		-->HTML,CSS,JS
+	*Backend
+		-->Django
+	*Database
+		-->sqlite
+--->Phishning url fraud detection
+	*Domain--Transformer concept in Deep Learning
+	*FrontEnd
+		-->HTML,CSS,JS
+--->LibraryManagementSystem
+	*Domain--Servlets,jdbc,jsp
+	*FrontEnd
+		-->HTML,CSS,JS
+	*Backend
+		-->JDBC
+	*Database
+		-->Oracle
+--->Employeee Portal
+	*Domain--SpringBoot
+	*FrontEnd
+		-->HTML,CSS,JS,thyemeleaf
+	*Backend
+		-->Springboot
+
+	*Database
+		-->PostGreSql
+
+3. What are Challenges you are faced while doing project?
+My project had two faces that is desiging and implementation part when I am implementing the project, after designing it. I have faced many problems and difficulties in matching the funtionalities present in design and also when connecting the database at backend.
+
+4) How will u overcome it?
+I took help and guidance from my supervisor and reffered some online tutorials.
+5) How did you overcome problems with your teammates? 
+I strongly feel that if somebody is not actively involving in the work then there should be something happening in their personnel or professional life,SO in this situation we should handle the scenarios gently.For this first I will have a deep talk with the person and try to know what are the challenges they are going through in their personnel and professional life.And then i will try to motivate him to overcome the situations and will give him the will power and will later ensure to get back him to work.
+6)How will you contribute to the accenture company?
+As a fresher and enthusiastic in learning I will give my best to the company to meet the mutual goals in time and will timely update my skills to copup with the current  trends so that I can contribute much to the company by new innovative thoughts.
+7) What is the feedback did u received for your project?
+The feedback I got when I submitted the project is good and positive feedback from my professors they also told to extend the project for furthermore beneficial of the society.
+8) In free time what will u do?
+In my free time I usually spend time to solve different coding programs present in different platforms like hacherank,geeksforgeeks,leetcode .
+9) Least Intrested Subject?
+Acatually i dont have anything like that,i will give importance to all subjects,i always like to learn new things ,so i dont have any least favourite subject.
+8) Fav Subject?
+Java programming because I have lot of interest on it and java has wide range of applications for example it can be used in web development, gaming development, Artificial intelligence ,Internet of Things,Television,Enterprise software,Big data,Cloud computing,mobile applications etc.
+9) location?
+i would love to relocate to be a part of such a well-reputed  and wonderful company.i cant;t miss such a great opportunity .
+
+10) You have any questions?
+Sir could you suggest any technologies a fresher need to learn before getting in to the Accenture company.
+11) favorite place?
+My favorite place is Tirumala, because in my entired family devotes lord venkateswara, we usually visit tirumala once in a month.
+12)Role in your project?
+My role in project is implementation.
+13) What is the feedback did u received for your project?
+The feedback I got when I submitted the project is good and positive feedback from my professors they also told to extend the project for furthermore beneficial of the society.
+14)Why did you apply for this job?
+I have applied for this Job as I feel it will be best suited to me as per skills. I can give my
+best for this job. When I was going through job-description I have noticed that you have
+mentioned that you need someone who can do Coding, so I was very excited as I have
+very good knowledge in this field as I have also worked on the project at my college
+time and even got trained in this technology.
+
+15)How have you prepared for this interview?
+When I got to know about this interview, firstly I got excited about this as I was eagerly
+waiting for such an opportunity. But I was not much aware of the company?s service
+and products hence I searched a lot for it and also many interesting points for this
+company (brief some point). Then I went through the Job description and requirement
+and refreshed my theory and practical part of technologies. So this way, I have prepared
+myself for this interview.
+
+16)What is your biggest achievement till now?
+
+I have got various achievements in my carrier, but the most notable achievement was
+the delivery of my college project. We have opt to create a web application, as some of
+our team members including me was having reasonable knowledge of web, and the guy
+who was leading us was senior and had worked with many web development projects. But due to
+some issue, he needs to go out of  college so, I was selected as lead for that project. So with
+my continuous practice and enthusiasm including my team members, we have
+completed our task, and our project was one of the best projects of our college.
+
+17)What do you know about our Company?
+
+Accenture is a leading global professional services company that specializes in a wide range of services, including strategy, consulting, digital transformation, technology, and operations. Here’s an overview of the company based on the provided search results:
+Company Overview
+Headquarters: Accenture is headquartered in Dublin, Ireland.
+Employees: As of 2024, Accenture employs approximately 774,000 people worldwide.
+Global Presence: The company operates in more than 120 countries and serves over 9,000 clients across various industries.
+
+18)Why should we consider you for this job?
+
+As fresher, I don't have any experience. If you hire me, it is a great opportunity for
+me to learn something new and achieve my goals. This is only possible if you hire
+me and I assure you that I will give my best to this company.
+
+19)What are your goals for the next five years?
+
+I want to see myself as one of the topmost performing employees in a well-established
+organization like yours and want to contribute my skills and knowledge to the
+enhancement of my career growth as well as company growth.
+or
+I can see myself growing with this company and reaching a position where I become
+a valuable asset to this organization.
+
+
+20) What is your Strength and Weakness?
+Strength: I am Honest, Sincere, Responsible, and have positive Attitude.
+Weakness: I don't take rest until my work finished.
+
+
+21)Why do you want to work for our company?
+
+It is a great honor for me to work in a reputed company likes yours because it is a
+great multinational company. It has many branches across the world. Employee
+satisfaction is good in your company. It's a good platform for me to improve my talent
+and enhance my skill and knowledge.
+
+22)What is the difference between Confidence and Over-Confidence?
+
+Confidence means I will win and Overconfidence means I will win at all the time.
+
+23)What is the difference between Hard-work and Smart work?
+
+Hard work is very necessary for your life because, without practice, you can?t be
+able to do smart work.
+
+24)How do you feel about working night and weekends?
+
+If the company needs me then I am ready to work at any time.
+
+25)Can you work under Pressure?
+Yes, it is a Great Honor for me to work in a presumed organization like yours on the
+grounds that it is an incredible multinational organization. It has numerous branches
+over the world. Worker fulfillment is great in your organization. It's a decent stage for
+me to stand my ability and upgrade my expertise and knowledge.
+
+26)What is your goals?
+My short term goal is to be a part of your company and my long-term goal is to be
+successful in every parameter of this company.
+
+27)How much salary do you expect?
+I can expect something which I can meet my expenses.
+
+28)On the scale of one to ten, rate me as an interviewer.
+Sir, you are more educated, more talented, more experienced than me I am not on a
+level to judge you.
+
+29)Who has inspired you in your life and why?
+My father is my inspiration because he still shows me the path from nothing to
+everything. He always guides me to achieve success in every matter of my life. He is
+also my best friend because he even suggested to me as a friend when I make a
+mistake.
+
+30) If you feel work pressure, how will you deal with it?
+I work more efficiently under pressure as I feel it is challenging my abilities and I need to prove myself. I have found myself more creative under pressure conditions with some deadlines. When I got such type of situations, my first thing is always to be positive, and I started doing work with more concentration. For example, in my recent project I have assigned a task which was based on the latest AI technique, about which I was not so much aware, but still I worked on that technology I learned it, and I successfully completed my task, and also I got employee of the month award because of that project. 
+
+31)Why did you chosen project which has done by someone already?
+Sir, Being a fresher I have considered to take up this projects only to learn what kind of
+process has been followed , Roadmaps ,as well as understood technologies have used. We
+have studied about possibilities to develop further.
+
+32)What is difference between Talent and Experience?
+Talent – Its given by birth which is part of our life.
+Experience- Can be gained thru practise and learning process by opportunities.
+
+
+Important: When Interviewer making some tough discussions with you and finding error with your
+presentations: Surely Sir being a fresher trying to learn from my mistakes and failures. I am ready to train myself
+with present day technologies updates whatever corrections you have mentioned. Surely I will take
+up your valuable suggestions and will implement it for my future growth.
+
